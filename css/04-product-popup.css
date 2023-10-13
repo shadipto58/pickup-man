@@ -143,4 +143,5 @@ a {
     border: none;
     border-radius: 10px;
     background: var(--g, linear-gradient(180deg, #258AFF 0%, #0063FF 100%));
+    cursor: pointer;
 }
